@@ -1,0 +1,8 @@
+[package]
+name = "binary-search-s"
+version = "0.1.0"
+edition = "2021"
+description = "Binary search algorithm which is slightly faster than std"
+
+[dev-dependencies]
+rand = { version = "0.8.5" }
